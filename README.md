@@ -8,41 +8,15 @@ Controle IPVA
 	  Entre suas atividades, está informar para seus clientes o mês de vencimento do IPVA de seus veículos. Para isso, o cliente fornece o número final da placa 
 	  do veículo, em seguida deve ser apresentado o mês que o IPVA deve ser pago. conforme tabela a seguir:
 
-   Placa Final 1
-
-Pagamento até 30/04
-
-Placa Final 2
-
-Pagamento até 31/05
-
-Placa Final 3
-
-Pagamento até 30/06
-
-Placa Final 4
-
-Pagamento até 31/07
-
-Placa Final 5
-
-Pagamento até 31/08
-
-Placa Final 6
-
-Pagamento até 30/09
-
-Placa Final 7
-
-Pagamento até 31/10
-
-Placa Final 8
-
-Pagamento até 30/11
-
-Placa Final 9 ou 0
-
-Pagamento até 31/12
+	Placa Final 1      Pagamento até 30/04
+        Placa Final 2      Pagamento até 31/05 
+	Placa Final 3      Pagamento até 30/06 
+        Placa Final 4      Pagamento até 31/07
+        Placa Final 5      Pagamento até 31/08
+        Placa Final 6      Pagamento até 30/09
+        Placa Final 7      Pagamento até 31/10
+        Placa Final 8      Pagamento até 30/11
+        Placa Final 9 ou 0 Pagamento até 31/12
 
 </h3>
 
