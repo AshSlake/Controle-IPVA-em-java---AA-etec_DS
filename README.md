@@ -18,6 +18,10 @@ Controle IPVA
         Placa Final 8      Pagamento até 30/11
         Placa Final 9 ou 0 Pagamento até 31/12
 
+
+ Elabore um programa em linguagem Java que receba o número final da placa do veículo, e exiba uma mensagem informando o período que o cliente tem para pagamento do IPVA.
+ Caso a placa informada esteja fora da faixa entre 0 e 09, o programa deverá exibir uma mensagem informando o valor digitado está incorreto.
+
 </h3>
 
 <h3 align="left">Linguagens utilizadas no projeto:</h3>
